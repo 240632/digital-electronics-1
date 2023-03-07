@@ -51,8 +51,8 @@
            "1" when (SW = "0010") else
            "1" when (SW = "0001") else
            "0";
-           
-   ```vhdl
+     ```vhdl
+  
 3. Screenshot with simulated time waveforms for LED(7:4). Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
 
    ![image](https://user-images.githubusercontent.com/124742212/223501264-06975885-d8e7-41de-811e-71de490f9d63.png)
