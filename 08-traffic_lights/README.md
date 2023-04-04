@@ -79,4 +79,4 @@ p_traffic_fsm : process(clk) is
 
 3. Figure of Moor-based state diagram of the traffic light controller with *speed button* to ensure a synchronous transition to the `WEST_GO` state. The image can be drawn on a computer or by hand. Always name all states, transitions, and input signals!
 
-   ![your figure]()
+   ![image](https://user-images.githubusercontent.com/124742212/229925141-6127c0aa-56d7-4c0e-a34e-1117973fd866.png)
