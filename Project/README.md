@@ -1,4 +1,4 @@
-#Projekt VHDL : Kodér a dekodér Morseovy abecedy
+# Projekt VHDL : Kodér a dekodér Morseovy abecedy
 
 ## Členové teamu
 
