@@ -20,7 +20,7 @@ Insert descriptive text and schematic(s) of your implementation.
 
 Put flowchats/state diagrams of your algorithm(s) and direct links to source/testbench files in `src` and `sim` folders. 
 
-## simulace
+## Simulace
 
 Write descriptive text and simulation screenshots of your components.
 
