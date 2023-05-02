@@ -16,6 +16,8 @@ Dekodér je řešen tak, že snímáme ve vstupním signálu jak dlouhé jsou ú
 
 Insert descriptive text and schematic(s) of your implementation.
 
+Pro realizaci tohoto projektu byla použity dvě desky Nexys A7 50T (Jedna pro kodér, druhá pro dekodér), které jsou kabelem propojeny mezi sebou.
+
 ## Popis softwaru
 
 Put flowchats/state diagrams of your algorithm(s) and direct links to source/testbench files in `src` and `sim` folders. 
