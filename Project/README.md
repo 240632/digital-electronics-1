@@ -1,6 +1,6 @@
 # Projekt VHDL : Vysílač a příjmač Morseovy abecedy
 
-## Členové teamu "JílFaKeš"
+## Členové teamu "LuLuBro (JilFaKeš)"
 
 * Lukáš Faltys
 * Lukáš Jílek
