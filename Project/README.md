@@ -16,11 +16,11 @@ Dekodér je řešen tak, že snímáme ve vstupním signálu jak dlouhé jsou ú
 
 Pro realizaci tohoto projektu byla použity dvě desky Nexys A7 50T (Jedna pro kodér, druhá pro dekodér), které jsou kabelem propojeny mezi sebou.
 
-###Vnitřní schéma kodéru:
+#Vnitřní schéma kodéru:
 
 ![image](https://user-images.githubusercontent.com/124742212/235740401-d74fb1d0-9c74-4a3d-91b8-5748d14141f3.png)
 
-###Vnitřní schéma dekodéru:
+#Vnitřní schéma dekodéru:
 
 ![image](https://user-images.githubusercontent.com/124742212/235740480-2eea7b35-88c7-456b-aedd-b8b195320f13.png)
 
