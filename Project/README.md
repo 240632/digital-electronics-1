@@ -32,9 +32,9 @@ Pro realizaci tohoto projektu byla použity dvě desky Nexys A7 50T (Jedna pro k
 
 ## Popis softwaru
 ### Odkazy na soubory: 
-Design source: [zde](https://github.com/240632/digital-electronics-1/blob/main/Project/Soubory%20projektu%20-%20Vivavo/morse%20code/morse%20code.srcs/sources_1/new/morse_try.vhd)   |  
-Testbench source: [zde](https://github.com/240632/digital-electronics-1/blob/main/Project/Soubory%20projektu%20-%20Vivavo/morse%20code/morse%20code.srcs/sim_1/new/morse_TB.vhd)   |  
-Top file: [zde](https://github.com/240632/digital-electronics-1/blob/main/Project/Soubory%20projektu%20-%20Vivavo/morse%20code/morse%20code.srcs/sources_1/new/TOP.vhd)   |  
+Design source: [zde](https://github.com/240632/digital-electronics-1/blob/main/Project/Soubory%20projektu%20-%20Vivavo/morse%20code/morse%20code.srcs/sources_1/new/morse_try.vhd)     
+Testbench source: [zde](https://github.com/240632/digital-electronics-1/blob/main/Project/Soubory%20projektu%20-%20Vivavo/morse%20code/morse%20code.srcs/sim_1/new/morse_TB.vhd)     
+Top file: [zde](https://github.com/240632/digital-electronics-1/blob/main/Project/Soubory%20projektu%20-%20Vivavo/morse%20code/morse%20code.srcs/sources_1/new/TOP.vhd)     
 Constrain file: [zde](https://github.com/240632/digital-electronics-1/blob/main/Project/Soubory%20projektu%20-%20Vivavo/morse%20code/morse%20code.srcs/constrs_1/new/cnst.xdc)
 
 
