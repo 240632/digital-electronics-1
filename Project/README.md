@@ -37,13 +37,13 @@ The aim of the project is to cooperate in small teams, to study the subject, to 
 
 ### Team members
 
-* Member 1 (responsible for ...)
-* Member 2 (responsible for ...)
-* Member 3 (responsible for ...)
+* Lukáš Faltys
+* Lukáš Jílek
+* Jan Brokeš
 
 ## Theoretical description and explanation
 
-Enter a description of the problem and how to solve it.
+Celkové naše řešení zkráceně spočívá v tom, že v kodéru......
 
 ## Hardware description of demo application
 
