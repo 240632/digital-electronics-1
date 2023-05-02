@@ -47,6 +47,8 @@ Constrain file: [zde](https://github.com/240632/digital-electronics-1/blob/main/
 
 V simulaci jsme použili jako testovací kombinaci písmenko Q a poté písmenko A, viz. spodní obrázek. Na vrchním obrázku můžeme vidět výstupní signály.
 
+*******************
+
 Legenda k signálům:
 
 signal_in - vstupní signál   
@@ -56,7 +58,6 @@ dot 1-4 - Určení dle vstupního signálu, zda je v určité pozici tečka
 dash 1-4 - Určení dle vstupního signálu, zda je v určité pozici čárka   
 position 1-4 - vnitřní signál pro určení pozice dot/dash   
 
-*******************
 
 btn 1-10 - vstupní tlačítka (SW) - nastavení kombinace pomocí přepínačů   
 seg1[7:0] - vybirání segmentů pro rozsvícení   
