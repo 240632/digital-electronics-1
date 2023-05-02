@@ -14,20 +14,20 @@ Dekodér je řešen tak, že snímáme ve vstupním signálu jak dlouhé jsou ú
 
 ## Popis hardwaru
 
-Pro realizaci tohoto projektu byla použity dvě desky Nexys A7 50T (Jedna pro kodér, druhá pro dekodér), které jsou kabelem propojeny mezi sebou.
+Pro realizaci tohoto projektu byla použity dvě desky Nexys A7 50T (Jedna pro vysílač, druhá pro příjmač), které jsou kabelem propojeny mezi sebou.
 
 ![12710_01_11](https://user-images.githubusercontent.com/124742212/235751287-b5311984-bb20-4c73-9829-ad586a8019ed.png)
 
 
 
 
-### Vnitřní schéma kodéru:
+### Vnitřní schéma vysílače:
 
 ![image](https://user-images.githubusercontent.com/124742212/235740401-d74fb1d0-9c74-4a3d-91b8-5748d14141f3.png)
 
-### Vnitřní schéma dekodéru:
+### Vnitřní schéma příjmače:
 
-![image](https://user-images.githubusercontent.com/124742212/235740480-2eea7b35-88c7-456b-aedd-b8b195320f13.png)
+![image](https://user-images.githubusercontent.com/124742212/235775695-8cf5b041-a301-49ab-9ac8-f2a1fa6c5310.png)
 
 
 ## Popis softwaru
