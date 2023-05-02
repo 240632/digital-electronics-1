@@ -30,7 +30,7 @@ Write descriptive text and simulation screenshots of your components.
 
 Write an instruction manual for your application, including photos or a link to a video.
 
-## Reference
+## Použité materiály a inspirace
 
-1. Put here the literature references you used.
-2. ...
+1. [...](https://github.com/tomas-fryza/digital-electronics-1)
+2. [...](https://digilent.com/reference/programmable-logic/nexys-a7/reference-manual)
