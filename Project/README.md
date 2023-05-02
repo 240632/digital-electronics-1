@@ -1,6 +1,6 @@
-# Projekt VHDL : Kodér a dekodér Morseovy abecedy
+# Projekt VHDL : Vysílač a příjmač Morseovy abecedy
 
-## Členové teamu
+## Členové teamu LuLuBros
 
 * Lukáš Faltys
 * Lukáš Jílek
