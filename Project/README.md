@@ -31,6 +31,8 @@ Put flowchats/state diagrams of your algorithm(s) and direct links to source/tes
 
 ## Simulace
 
+V simulaci jsme použili jako testovací kombinaci písmenko Q a poté písmenko A, viz. spodní obrázek. Na vrchním obrázku můžeme vidět výstupní signály.
+
 ![image](https://user-images.githubusercontent.com/124742212/235743084-db3f3026-a3d9-4f3f-a50b-3695f625b376.png)
 
 ## Instrukce pro použití
