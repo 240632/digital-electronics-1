@@ -32,5 +32,5 @@ Write an instruction manual for your application, including photos or a link to 
 
 ## Použité materiály a inspirace
 
-1. [...](https://github.com/tomas-fryza/digital-electronics-1)
-2. [...](https://digilent.com/reference/programmable-logic/nexys-a7/reference-manual)
+1. [https://github.com/tomas-fryza/digital-electronics-1)](https://github.com/tomas-fryza/digital-electronics-1)
+2. [https://digilent.com/reference/programmable-logic/nexys-a7/reference-manual](https://digilent.com/reference/programmable-logic/nexys-a7/reference-manual)
