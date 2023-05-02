@@ -31,6 +31,9 @@ Pro realizaci tohoto projektu byla použity dvě desky Nexys A7 50T (Jedna pro k
 
 
 ## Popis softwaru
+
+Celková funkčnost designu spočívá čistě v tom, že my nastavíme nějakou kombinaci a poté odešleme. Tlačítkem na odeslání se nám podle zadané kombinaci vytvoří signál v parametry: tečka 2s, čárka 4s a mezera 6s. Zadaná kombinace je zobrazená také na 7 segmentových displejích. V dekodéru je násleně vytvořený signál pomocí podmínkových funkcí signál zpět převeden do podoby Morseova kódu, který se zobrazí na 7 segmentových displejích.
+
 ### Odkazy na soubory: 
 Design source: [zde](https://github.com/240632/digital-electronics-1/blob/main/Project/Soubory%20projektu%20-%20Vivavo/morse%20code/morse%20code.srcs/sources_1/new/morse_try.vhd)     
 Testbench source: [zde](https://github.com/240632/digital-electronics-1/blob/main/Project/Soubory%20projektu%20-%20Vivavo/morse%20code/morse%20code.srcs/sim_1/new/morse_TB.vhd)     
